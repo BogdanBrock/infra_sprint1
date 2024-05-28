@@ -1,0 +1,5 @@
+IP: 158.160.31.116;
+name_taski: https://practicum.ddns.net;
+name_kittygram: https://kittygram.serveblog.net;
+login: bogdan;
+password: f100dr100;
